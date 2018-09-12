@@ -1,5 +1,5 @@
 This is test file2.
 Add to test git command, xxxxx.
-Add to test git command, ooooo.
+Add to test git command, ooooo, ppppp.
 
 A new line added.

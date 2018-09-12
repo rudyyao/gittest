@@ -2,5 +2,6 @@ This is test file1.
 Add to test git commands, yyyyy.
 Add to test git commands, zzzzz.
 Add to test git commands, aaaaa.
+Add to test git commands, bbbbb.
 
 A new line added.
